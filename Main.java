@@ -358,7 +358,7 @@ class Main {                               //main snake class
 
 	public static void main(String args[]){
 		
-		Snake s=new Snake();
+		Main s=new Main();
 		s.board();
 		s.game();
 		           //game object call
